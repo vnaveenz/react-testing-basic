@@ -1,7 +1,7 @@
 function App() {
   return (
     <div>
-      <h1>I'm gonna learn React Testing Library</h1>
+      <h1>Simple test App</h1>
     </div>
   );
 }
