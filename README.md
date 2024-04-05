@@ -1,6 +1,4 @@
-# Starter with Vite, React Testing Library and Vitest
-
-Created for the Udemy course [React Testing Library with Jest / Vitest](https://www.udemy.com/course/react-testing-library)
+# Simple React App
 
 ## How this project was created
 
